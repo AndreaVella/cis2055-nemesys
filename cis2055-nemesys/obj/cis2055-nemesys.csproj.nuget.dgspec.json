@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/andreavella/Projects/cis2055-nemesys/cis2055-nemesys/cis2055-nemesys.csproj": {}
+  },
+  "projects": {
+    "/Users/andreavella/Projects/cis2055-nemesys/cis2055-nemesys/cis2055-nemesys.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/andreavella/Projects/cis2055-nemesys/cis2055-nemesys/cis2055-nemesys.csproj",
+        "projectName": "cis2055-nemesys",
+        "projectPath": "/Users/andreavella/Projects/cis2055-nemesys/cis2055-nemesys/cis2055-nemesys.csproj",
+        "packagesPath": "/Users/andreavella/.nuget/packages/",
+        "outputPath": "/Users/andreavella/Projects/cis2055-nemesys/cis2055-nemesys/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/andreavella/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
